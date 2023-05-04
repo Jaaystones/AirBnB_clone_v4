@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="400" height="500" src=https://user-images.githubusercontent.com/111044396/236269877-1a3d8dc3-b90b-48f5-9c95-ed49c00ed60e.png>
+<img align="center" alt="Coding" width="1000" height="500" src=https://user-images.githubusercontent.com/111044396/236269877-1a3d8dc3-b90b-48f5-9c95-ed49c00ed60e.png>
 
 
 
